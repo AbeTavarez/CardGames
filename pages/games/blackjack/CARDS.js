@@ -1,4 +1,4 @@
-const CARDS = [
+ export const CARDS = [
     {
       code: "5S",
       image: "https://deckofcardsapi.com/static/img/5S.png",
